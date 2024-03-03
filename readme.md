@@ -15,7 +15,7 @@ K-Means Clustering
 ![alt text](K-Means.png)
 
 Birch Clustering
-![alt text](Birch Clustering.png)
+![alt text](BirchClustering.png)
 
 Hierarchial Clustering
-![alt text](Hierarchial Clustering.png)
+![alt text](HierarchialClustering.png)
