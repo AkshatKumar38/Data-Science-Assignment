@@ -11,5 +11,11 @@ Clustering Algorithms Used :
 Kmeans Clustering , Birch Clustering , Hierarchial Clustering
 
 Output:
+K-Means Clustering
+![alt text](K-Means.png)
 
-![alt text](image.png)
+Birch Clustering
+![alt text](Birch Clustering.png)
+
+Hierarchial Clustering
+![alt text](Hierarchial Clustering.png)
